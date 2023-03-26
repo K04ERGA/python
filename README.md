@@ -1,2 +1,1 @@
-# djpython
-test of dj projects
+# python
